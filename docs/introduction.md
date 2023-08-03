@@ -18,9 +18,11 @@
 
 > 人，首先要自我站立，站起来平视一切，智慧自然涌现。一死生，等祸福，没有这样的胸襟，那就只能成为无枝败叶被红尘所飘。
 
-![chzhshch.png](/assets/img/chzhshch.png "全球第一博客---缠中说禅")
+---
 
-- **chzh1019**	
-  - [Markdown语法](markdown)
-  - [缠中说禅时间表](time)
+<br/>
+
+💕[`1.`](markdown)[`缠中说禅时间表`](time)<br/><br/>
+
+![chzhshch.png](/assets/img/chzhshch.png "全球第一博客---缠中说禅")
 
