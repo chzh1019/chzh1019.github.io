@@ -22,7 +22,7 @@
 
 <br/>
 
-💕[`1.`](markdown)[`缠中说禅时间表`](time)<br/><br/>
+:cn: [`1.`](markdown)[`缠中说禅时间表`](time)<br/><br/>
 
 ![chzhshch.png](/assets/img/chzhshch.png "全球第一博客---缠中说禅")
 

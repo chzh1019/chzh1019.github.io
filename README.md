@@ -1,8 +1,4 @@
-# docsify-chzh1019
-
----
-
-<!-- tabs:start -->
+# chzh1019
 
 #### **关于**
 
@@ -12,6 +8,4 @@
 
 不是本ID自吹自擂：能让你八卦的博客，不能让你有品位；能让有品位的，不能让你智慧；能让你智慧的，不能让你挣钱；能让你挣钱的，不能让你明心。而能让你八卦、品位、智慧、挣钱、明心，一个都不少的博客，全球只有一个，那就是：<br/><br/><center><h1 style="font-size: 1.5rem"><font color='red'>全球第一博客---缠中说禅</font></h0></center>
 
-<!-- tabs:end -->
-
-![chzhshch.png](/assets/img/chzhshch.png "全球第一博客---缠中说禅")
+进度32/1134
