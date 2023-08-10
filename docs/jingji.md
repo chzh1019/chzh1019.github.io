@@ -2,7 +2,7 @@
 
    ---
 
-   1. <font color='#703c34'>[即使破产的市场经济也比完美的计划经济强上一万倍 (2006-02-25 12:53:45)](https://chzh1019.github.io/chzhshch/047/)
+   1. [即使破产的市场经济也比完美的计划经济强上一万倍 (2006-02-25 12:53:45)](https://chzh1019.github.io/chzhshch/047/)
    2. [言论自由，衡量政府自信程度的最重要指标！ (2006-02-26 12:33:07)](https://chzh1019.github.io/chzhshch/050/)
    3. [中华民族可能面临的重大机遇（上） (2006-02-28 22:51:58)](https://chzh1019.github.io/chzhshch/060/)
    4. [中华民族可能面临的重大机遇（下） (2006-02-28 22:56:40)](https://chzh1019.github.io/chzhshch/061/)
@@ -350,7 +350,7 @@
    346. [管理层终于又做对了一次 (2007-11-21 15:36:59)](https://chzh1019.github.io/chzhshch/786/)
    347. [又是月亮惹的祸 (2007-11-22 15:32:48)](https://chzh1019.github.io/chzhshch/788/)
    348. [过高的股票交易印花税已到必须调整时 (2007-11-22 21:30:42)](https://chzh1019.github.io/chzhshch/789/)
-   349. [对不起 (2007-11-23 13:57:18)](https://chzh1019.github.io/chzhshch/790/)
+   349. [对不起，晚到的解盘 (2007-11-25 22:00:34)](https://chzh1019.github.io/chzhshch/791/)
    350. [抱歉，刚回家，还要忙。 (2007-11-26 23:59:35)](https://chzh1019.github.io/chzhshch/792/)
    351. [时间错乱还有两天，抱歉了。 (2007-11-27 23:54:13)](https://chzh1019.github.io/chzhshch/793/)
    352. [大盘进入基本支持区域 (2007-11-28 23:16:09)](https://chzh1019.github.io/chzhshch/794/)

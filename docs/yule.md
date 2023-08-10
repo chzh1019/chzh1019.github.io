@@ -2,7 +2,7 @@
 
 ---
 
-1. <font color='#703c34'>[网络消费男人经典实录大全 (2006-02-22 21:09:10)](https://chzh1019.github.io/chzhshch/043/)
+1. [网络消费男人经典实录大全 (2006-02-22 21:09:10)](https://chzh1019.github.io/chzhshch/043/)
 1. [严肃求助：希望实现一个愿望，但遇到法律和技术障碍！ (2006-02-24 14:41:55)](https://chzh1019.github.io/chzhshch/046/)
 1. [同性恋霸权主义，全球垃圾文化毒瘤！ (2006-02-28 14:19:07)](https://chzh1019.github.io/chzhshch/057/)
 1. [女性身体写作----从木子美到芙蓉姐姐！ (2006-02-28 16:30:02)](https://chzh1019.github.io/chzhshch/058/)
@@ -28,7 +28,7 @@
 1. [公告：有关本博客有可能被取消专业路径甚至被关闭的通知(2006-07-24 15:04:50)](https://chzh1019.github.io/chzhshch/246/)
 1. [公告 (2006-07-29 15:49:15)](https://chzh1019.github.io/chzhshch/255/)
 1. [公告 (2006-08-02 11:08:26)](https://chzh1019.github.io/chzhshch/262/)
-1. [公告： (2006-08-04 18:18:15)](https://chzh1019.github.io/chzhshch/266/)
+1. [公告： (2006-08-11 21:16:55)](https://chzh1019.github.io/chzhshch/275/)
 1. [姚明，输球就赖裁判，丑不丑？ (2006-08-22 16:43:57)](https://chzh1019.github.io/chzhshch/284/)
 1. [公告： (2006-09-06 20:05:08)](https://chzh1019.github.io/chzhshch/298/)
 1. [公告：请电脑高手指教！ (2006-09-12 12:49:47)](https://chzh1019.github.io/chzhshch/304/)
@@ -38,3 +38,4 @@
 1. [对不起，有朋自远方来 (2007-08-07 12:55:57)](https://chzh1019.github.io/chzhshch/622/)
 1. [卡佩罗，正走上正确的道路 (2008-03-27 15:47:33)](https://chzh1019.github.io/chzhshch/962/)
 1. [各位端午节好，说说本ID现在的情况 (2008-06-07 08:56:27)](https://chzh1019.github.io/chzhshch/1020/)
+
