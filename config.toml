@@ -287,18 +287,18 @@ uglyURLs = false
 
     ## 社交栏
     [[menu.socials]]
-        url = "https://github.com/wodewoshiwo"
-        name = "GitHub"
+        url = "https://github.com/chzh1019"
+        name = "github"
         weight = 3
         pre = "external"
     [[menu.socials]]
-        url = "https://chzh.me/chanshi/2002/"
-        name = "◎ 缠于2002年的诗与文"
+        url = "https://wwwww.coze.site/"
+        name = "日拱一卒，功不唐捐"
         weight = 1
         pre = "external"
     [[menu.socials]]
-        url = "https://chzh.me/download/"
-        name = "◎ 缠师资料下载"
+        url = "https://chzh1019.coze.site/admin"
+        name = "html文件管理(扣子)"
         weight = 2
         pre = "external"
 
@@ -310,7 +310,7 @@ uglyURLs = false
         pre = "internal"
     [[menu.links]]
         pageref = "/tags/"
-        name = "《缠中说禅》"
+        name = ""
         weight = 2
         pre = "internal"
 
