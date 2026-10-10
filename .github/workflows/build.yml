@@ -17,6 +17,6 @@ jobs:
       env:
         DEPLOY_REPO: chzh1019/chzh1019.github.io
         DEPLOY_BRANCH: build
-        DEPLOY_KEY: ${{ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCgA25azj70z7dZR7MJW2CWvhtPMonsi6ZvuHSiI15J7NZ5ScTCrJx3eekVyBuDQXGWrszOkHeRbTL8oCecILKQdRSe6F0m1zNZ1UHkd4vmVgozWO65EBtOEP6C8yfo0kpSWhNDpE74Dh8fqywMqVCZbsolRN/N9ytXKoWO9Oz7/8GRYV9ge0mFCg/96IWsStojefn8d+6Ds8CEXRlForRTQxcLRKfI8HGJgFfYhJmeXox9QpRhBitFrpVHUsw2YT58tjib9YOEX3MNgy7f03XmvUyXZAKmG6kZaaMLwahrjtzN0DVlI/lGfJS1DHzWk0jCW4mS4EN4Xs/WIWhP6Lx37wfXJ5faIwU+aA9WWqMV23BcuCiUvH7mWKCQd9j5Mpla0DJ/F0pq9oEsLcmTfNkU/IjEPC0nKNzel7DP8l4rvxAFT+3D9vwZLSpcvp4Vsip2M0slYLO4LmXZH1/gDTn+pP4CWxie4TABgUj0DfR5UyWxIoMtEqTJVH/WrtBbuQQOn1Fn6iUkduLNzq5kICqOl5ujNtwmR3nE+Vb96RrK4fUQH2DeHzurqIoV07rJcns7xU1ARAPrbXLUEmvXUM4AYxkShHJeVzvJ6Ih9YppSPXRoq71X7bnLK7Lt2Ueg9342+M3kuqGgnpiczOHwmZ8m9tQI/dc98xsYTRHX42J7YQ== chzh1019@petalmail.com}}
+        DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
         # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         TZ: Asia/Shanghai
