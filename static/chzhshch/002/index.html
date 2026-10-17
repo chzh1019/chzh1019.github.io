@@ -20,7 +20,7 @@
 
 
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 
 
@@ -4129,14 +4129,16 @@
 
 
 <meta name=referrer content=no-referrer>
+
 <style id="mobile-responsive-fix">
+/* 关键：强制主容器不撑出视口，防止 WebKit 把布局视口撑到 950px */
+html, body { overflow-x: hidden !important; }
+body { min-width: auto !important; }
+.sinabloga, .sinablogb, .sinabloghead, .sinablogbody { max-width: 100% !important; }
+.sinabloghead { margin-left: auto !important; margin-right: auto !important; }
+
 @media screen and (max-width: 768px) {
-  html, body { overflow-x: hidden; }
-  .sinabloga, .sinablogb, .sinabloghead, .sinablogbody {
-    width: auto !important;
-    max-width: 100% !important;
-  }
-  .sinabloghead { margin: 0 !important; }
+  .sinabloghead { width: auto !important; margin: 0 !important; }
   .SG_colW21, .SG_colW73 {
     width: auto !important;
     max-width: 100% !important;
